@@ -1,4 +1,4 @@
-# attributions
+# Attributions
 
 ## Licenses
 
